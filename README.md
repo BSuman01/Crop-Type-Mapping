@@ -1,4 +1,4 @@
-# This repository contains the group project of "Big Geodata Analytical Methods and Distributed Computing" Course of TMT+ training organized by The Faculty of Geo-Information Science and Earth Observation (ITC), University of Twente.
+## This repository contains the group project of "Big Geodata Analytical Methods and Distributed Computing" Course of TMT+ training organized by The Faculty of Geo-Information Science and Earth Observation (ITC), University of Twente.
 
 ### The title of the project is "Machine Learning Algorithms based Crop Type Mapping in North-Western part of Bangladesh using Google Earth Engine (GEE) and Python"
 
