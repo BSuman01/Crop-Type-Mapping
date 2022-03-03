@@ -7,3 +7,7 @@ Precise crop type maps are crucial for monitoring cropping patterns, sustainable
 
 The study area shapefile can be accesses on:
 <br> https://code.earthengine.google.com/?asset=users%2Fshohelovro%2FCropTypePaper%2FGodagari_Upazila&fbclid=IwAR0yP7K6kvB9vsP6GJ7E8SR3wyFAOA6_ab4frGGrHEGRAAu36D5kFt8qbxk
+
+
+The composite image can be accessed on:
+<br> https://drive.google.com/file/d/1KywwGYj1oVxrzyKH6322IE7olfXImT4D/view?fbclid=IwAR3saSt8WEvGpck_4yk-84mv3dqz-L7XjYZ3n-iuYcvDm7oAQKzF4jokY6E
